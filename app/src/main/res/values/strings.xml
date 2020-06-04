@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiniShop</string>
+    <string name="this_is_my_view">This Is my View!</string>
+    <string name="my_text">My text</string>
+    <string name="listview">listView</string>
+    <string name="mygoodslist">MyGoodsList</string>
+</resources>
